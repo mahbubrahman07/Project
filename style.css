@@ -36,6 +36,10 @@
             color: #6366f1;
         }
 
+        .action-text h2, .action-text p{
+            text-align: center;
+        }
+
         .nav-links {
             display: flex;
             list-style: none;
@@ -69,9 +73,7 @@
             text-align: center;
             padding: 200px 0;
             margin-top: -90px;
-          
             background-image: url(/image/Frame\ 27158.png);
-
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -250,14 +252,14 @@
             font-weight: bold;
             color: #1f2937;
             margin-bottom: 20px;
-            text-align: left;
+            text-align: center;
         }
 
         .action-text p {
             color: #6b7280;
             font-size: 18px;
             margin-bottom: 30px;
-            text-align: left;
+            text-align: center;
         }
 
         .action-text .btn-primary {
